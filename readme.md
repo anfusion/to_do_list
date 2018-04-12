@@ -7,5 +7,4 @@ https://codepen.io/anfusion/pen/GvKLGy
 
 簡単なスケジュール帳ウェブアプリです。
 
-以下のリンク先にアクセスして見ることができます。
-https://codepen.io/anfusion/pen/GvKLGy
+以上のリンク先にて見ることができます。
